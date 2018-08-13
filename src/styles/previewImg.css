@@ -1,0 +1,11 @@
+.preview-img {
+    margin: 0 auto;
+    width: 700px;
+}
+.preview-img img {
+    width: 100%;
+}
+#canvasRasterizer {
+    width: 500px;
+    margin: 100px;
+}
